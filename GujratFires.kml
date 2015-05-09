@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <IconStyle id="substyle_0">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_0">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_1">
+            <IconStyle id="substyle_1">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_1">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_2">
+            <IconStyle id="substyle_2">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_2">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_3">
+            <IconStyle id="substyle_3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_3">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_4">
+            <IconStyle id="substyle_4">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_4">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_5">
+            <IconStyle id="substyle_5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_5">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_6">
+            <IconStyle id="substyle_6">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/phone.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_7">
+            <IconStyle id="substyle_7">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_7">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_8">
+            <IconStyle id="substyle_8">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_8">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_9">
+            <IconStyle id="substyle_9">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_9">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_10">
+            <IconStyle id="substyle_10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_10">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_11">
+            <IconStyle id="substyle_11">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_11">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_12">
+            <IconStyle id="substyle_12">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_12">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_13">
+            <IconStyle id="substyle_13">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_13">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_14">
+            <IconStyle id="substyle_14">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_14">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_15">
+            <IconStyle id="substyle_15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_15">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_16">
+            <IconStyle id="substyle_16">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_16">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_17">
+            <IconStyle id="substyle_17">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_17">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_18">
+            <IconStyle id="substyle_18">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_18">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_19">
+            <IconStyle id="substyle_19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_19">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_20">
+            <IconStyle id="substyle_20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_20">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_21">
+            <IconStyle id="substyle_21">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_21">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_22">
+            <IconStyle id="substyle_22">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_22">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_23">
+            <IconStyle id="substyle_23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_23">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_24">
+            <IconStyle id="substyle_24">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_24">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_25">
+            <IconStyle id="substyle_25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_25">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_26">
+            <IconStyle id="substyle_26">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_26">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_27">
+            <IconStyle id="substyle_27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_27">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_28">
+            <IconStyle id="substyle_28">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_28">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_29">
+            <IconStyle id="substyle_29">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_29">
+                    <href>firehot.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_30">
+            <IconStyle id="substyle_30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_30">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_31">
+            <IconStyle id="substyle_31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_31">
+                    <href>firenormal.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <open>1</open>
+        <Placemark id="feat_2">
+            <name>Gujrat</name>
+            <Point id="geom_0">
+                <coordinates>71,23,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Gujrat Fire &amp; Safety Agency</name>
+            <description>0265 242 8519</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_1">
+                <coordinates>73.202672,22.299774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Vadodara Central Fire Station</name>
+            <description>0265 241 3754</description>
+            <styleUrl>#stylesel_1</styleUrl>
+            <Point id="geom_2">
+                <coordinates>73.201142,22.300031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Mavdi Road Fire Station</name>
+            <description>093277 07487</description>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_3">
+                <coordinates>70.789847,22.271225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>JMC Fire and emergency services</name>
+            <description>Not Available</description>
+            <styleUrl>#stylesel_3</styleUrl>
+            <Point id="geom_4">
+                <coordinates>70.067657,22.46784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Diu Fire Station</name>
+            <description>Not Available</description>
+            <styleUrl>#stylesel_4</styleUrl>
+            <Point id="geom_5">
+                <coordinates>70.977257,20.713893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Bhuj Fire Station</name>
+            <description>Not Available</description>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_6">
+                <coordinates>69.681531,23.239067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Bhavnagar City Fire Brigade</name>
+            <description>0278 242 4814</description>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_7">
+                <coordinates>72.130497,21.77039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Unnamed Road, Gujarat 380060</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 61
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_7</styleUrl>
+            <Point id="geom_8">
+                <coordinates>72.445,23.098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Gujarat State HIghway 6, Varasda</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 49
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_8</styleUrl>
+            <Point id="geom_9">
+                <coordinates>72.458,22.355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Gujarat State HIghway 6, Gujarat 382230</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 42
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_10">
+                <coordinates>72.447,22.353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Gujarat State HIghway 6, Gujarat 382230</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 42
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_11">
+                <coordinates>72.413,22.359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Gujarat State Highway 16, Gujarat 388620</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 70
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_12">
+                <coordinates>72.581,22.409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Chitarwada Road, Nabhoi</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 77
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_13">
+                <coordinates>72.501,22.563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Transad Road, Transad</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 68
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_14">
+                <coordinates>72.467,22.671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Gujarat State Highway 4, Ambareli</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 75
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_14</styleUrl>
+            <Point id="geom_15">
+                <coordinates>72.348,22.665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>National Highway 228, Jetalpur</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 68
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_15</styleUrl>
+            <Point id="geom_16">
+                <coordinates>72.579,22.878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Porbandar - Veraval Highway, Gujarat 360576</name>
+            <description>High Danger Fire: No
+Closest Fire Station: JMC Fire and emergency services
+Confidence: 68
+Temperature: 30.18 C
+Humidity: 63
+ Wind Speed: 2.05 m/s </description>
+            <styleUrl>#stylesel_16</styleUrl>
+            <Point id="geom_17">
+                <coordinates>69.789,21.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Mitali Approach Road, Gujarat 388625</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 72
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_18">
+                <coordinates>72.45,22.452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Chitarwada Road, Nabhoi</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 35
+Temperature: 28.28 C
+Humidity: 46
+ Wind Speed: 1.7 m/s </description>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_19">
+                <coordinates>72.458,22.545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Chitarwada Road, Nabhoi</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 79
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_20">
+                <coordinates>72.496,22.56,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>Gujarat State Highway 144, Bareja</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 72
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_21">
+                <coordinates>72.564,22.865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Dhanlaxmi Road, Jetalpur</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 69
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_22">
+                <coordinates>72.614,22.879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Mitali Approach Road, Mitali</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 32
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_23">
+                <coordinates>72.434,22.402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Gujarat State HIghway 6, Varasda</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 65
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_23</styleUrl>
+            <Point id="geom_24">
+                <coordinates>72.518,22.379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Gujarat State HIghway 6, Varasda</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 56
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_24</styleUrl>
+            <Point id="geom_25">
+                <coordinates>72.461,22.369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Gujarat State HIghway 6, Varasda</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 65
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_26">
+                <coordinates>72.471,22.367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Gujarat State Highway 135, Chekhla</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 67
+Temperature: 33.0 C
+Humidity: 26
+ Wind Speed: 1.5 m/s </description>
+            <styleUrl>#stylesel_26</styleUrl>
+            <Point id="geom_27">
+                <coordinates>72.378,23.064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Waghodia - Dabhoi Road, Vasai</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Gujrat Fire &amp; Safety Agency
+Confidence: 67
+Temperature: 28.33 C
+Humidity: 47
+ Wind Speed: 1.7 m/s </description>
+            <styleUrl>#stylesel_27</styleUrl>
+            <Point id="geom_28">
+                <coordinates>73.397,22.179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Ambada Road, Ambada</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 59
+Temperature: 27.96 C
+Humidity: 49
+ Wind Speed: 2.2 m/s </description>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_29">
+                <coordinates>73.054,20.93,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Amada-Tori Road, Town of Tori</name>
+            <description>High Danger Fire: Yes
+Closest Fire Station: Bhavnagar City Fire Brigade
+Confidence: 61
+Temperature: 27.96 C
+Humidity: 49
+ Wind Speed: 2.2 m/s </description>
+            <styleUrl>#stylesel_29</styleUrl>
+            <Point id="geom_30">
+                <coordinates>73.063,20.929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>5, Abhona Road</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Gujrat Fire &amp; Safety Agency
+Confidence: 42
+Temperature: 26.56 C
+Humidity: 36
+ Wind Speed: 2.65 m/s </description>
+            <styleUrl>#stylesel_30</styleUrl>
+            <Point id="geom_31">
+                <coordinates>73.913,20.496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Mitali Approach Road, Gujarat 388625</name>
+            <description>High Danger Fire: No
+Closest Fire Station: Vadodara Central Fire Station
+Confidence: 66
+Temperature: 28.81 C
+Humidity: 58
+ Wind Speed: 2.5 m/s </description>
+            <styleUrl>#stylesel_31</styleUrl>
+            <Point id="geom_32">
+                <coordinates>72.45,22.432,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

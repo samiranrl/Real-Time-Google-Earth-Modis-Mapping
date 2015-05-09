@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <IconStyle id="substyle_0">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_0">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_1">
+            <IconStyle id="substyle_1">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_1">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_2">
+            <IconStyle id="substyle_2">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_2">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_3">
+            <IconStyle id="substyle_3">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_3">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_4">
+            <IconStyle id="substyle_4">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_4">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_5">
+            <IconStyle id="substyle_5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_5">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_6">
+            <IconStyle id="substyle_6">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_7">
+            <IconStyle id="substyle_7">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_7">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_8">
+            <IconStyle id="substyle_8">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_8">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_9">
+            <IconStyle id="substyle_9">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_9">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_10">
+            <IconStyle id="substyle_10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_10">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_11">
+            <IconStyle id="substyle_11">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_11">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_12">
+            <IconStyle id="substyle_12">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_12">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_13">
+            <IconStyle id="substyle_13">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_13">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_14">
+            <IconStyle id="substyle_14">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_14">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_15">
+            <IconStyle id="substyle_15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_15">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_16">
+            <IconStyle id="substyle_16">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_16">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_17">
+            <IconStyle id="substyle_17">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_17">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_18">
+            <IconStyle id="substyle_18">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_18">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_19">
+            <IconStyle id="substyle_19">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_19">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_20">
+            <IconStyle id="substyle_20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_20">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_21">
+            <IconStyle id="substyle_21">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_21">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_22">
+            <IconStyle id="substyle_22">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_22">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_23">
+            <IconStyle id="substyle_23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_23">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_24">
+            <IconStyle id="substyle_24">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_24">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_25">
+            <IconStyle id="substyle_25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_25">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_26">
+            <IconStyle id="substyle_26">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_26">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_27">
+            <IconStyle id="substyle_27">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_27">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_28">
+            <IconStyle id="substyle_28">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_28">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_29">
+            <IconStyle id="substyle_29">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_29">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_30">
+            <IconStyle id="substyle_30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_30">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="stylesel_31">
+            <IconStyle id="substyle_31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="link_31">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/firedept.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <open>1</open>
+        <Placemark id="feat_2">
+            <name>Gujrat</name>
+            <Point id="geom_0">
+                <coordinates>23,71,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>75</name>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_1">
+                <coordinates>72.466,22.452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>54</name>
+            <styleUrl>#stylesel_1</styleUrl>
+            <Point id="geom_2">
+                <coordinates>72.487,22.618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>83</name>
+            <styleUrl>#stylesel_2</styleUrl>
+            <Point id="geom_3">
+                <coordinates>71.093,20.829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>66</name>
+            <styleUrl>#stylesel_3</styleUrl>
+            <Point id="geom_4">
+                <coordinates>72.382,23.076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>65</name>
+            <styleUrl>#stylesel_4</styleUrl>
+            <Point id="geom_5">
+                <coordinates>72.329,22.992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>65</name>
+            <styleUrl>#stylesel_5</styleUrl>
+            <Point id="geom_6">
+                <coordinates>72.589,22.875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>76</name>
+            <styleUrl>#stylesel_6</styleUrl>
+            <Point id="geom_7">
+                <coordinates>72.6,22.873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>72</name>
+            <styleUrl>#stylesel_7</styleUrl>
+            <Point id="geom_8">
+                <coordinates>72.752,21.905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>69</name>
+            <styleUrl>#stylesel_8</styleUrl>
+            <Point id="geom_9">
+                <coordinates>72.762,21.904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>39</name>
+            <styleUrl>#stylesel_9</styleUrl>
+            <Point id="geom_10">
+                <coordinates>73.177,21.038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>73</name>
+            <styleUrl>#stylesel_10</styleUrl>
+            <Point id="geom_11">
+                <coordinates>72.481,22.499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>56</name>
+            <styleUrl>#stylesel_11</styleUrl>
+            <Point id="geom_12">
+                <coordinates>72.35,22.644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>79</name>
+            <styleUrl>#stylesel_12</styleUrl>
+            <Point id="geom_13">
+                <coordinates>72.334,22.642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>61</name>
+            <styleUrl>#stylesel_13</styleUrl>
+            <Point id="geom_14">
+                <coordinates>72.445,23.098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>49</name>
+            <styleUrl>#stylesel_14</styleUrl>
+            <Point id="geom_15">
+                <coordinates>72.458,22.355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>42</name>
+            <styleUrl>#stylesel_15</styleUrl>
+            <Point id="geom_16">
+                <coordinates>72.447,22.353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>42</name>
+            <styleUrl>#stylesel_16</styleUrl>
+            <Point id="geom_17">
+                <coordinates>72.413,22.359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>70</name>
+            <styleUrl>#stylesel_17</styleUrl>
+            <Point id="geom_18">
+                <coordinates>72.581,22.409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>77</name>
+            <styleUrl>#stylesel_18</styleUrl>
+            <Point id="geom_19">
+                <coordinates>72.501,22.563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>68</name>
+            <styleUrl>#stylesel_19</styleUrl>
+            <Point id="geom_20">
+                <coordinates>72.467,22.671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>75</name>
+            <styleUrl>#stylesel_20</styleUrl>
+            <Point id="geom_21">
+                <coordinates>72.348,22.665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>68</name>
+            <styleUrl>#stylesel_21</styleUrl>
+            <Point id="geom_22">
+                <coordinates>72.579,22.878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>68</name>
+            <styleUrl>#stylesel_22</styleUrl>
+            <Point id="geom_23">
+                <coordinates>69.789,21.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>72</name>
+            <styleUrl>#stylesel_23</styleUrl>
+            <Point id="geom_24">
+                <coordinates>72.45,22.452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>35</name>
+            <styleUrl>#stylesel_24</styleUrl>
+            <Point id="geom_25">
+                <coordinates>72.458,22.545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>79</name>
+            <styleUrl>#stylesel_25</styleUrl>
+            <Point id="geom_26">
+                <coordinates>72.496,22.56,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>72</name>
+            <styleUrl>#stylesel_26</styleUrl>
+            <Point id="geom_27">
+                <coordinates>72.564,22.865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>69</name>
+            <styleUrl>#stylesel_27</styleUrl>
+            <Point id="geom_28">
+                <coordinates>72.614,22.879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>32</name>
+            <styleUrl>#stylesel_28</styleUrl>
+            <Point id="geom_29">
+                <coordinates>72.434,22.402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>65</name>
+            <styleUrl>#stylesel_29</styleUrl>
+            <Point id="geom_30">
+                <coordinates>72.518,22.379,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>56</name>
+            <styleUrl>#stylesel_30</styleUrl>
+            <Point id="geom_31">
+                <coordinates>72.461,22.369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>65</name>
+            <styleUrl>#stylesel_31</styleUrl>
+            <Point id="geom_32">
+                <coordinates>72.471,22.367,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
