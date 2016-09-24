@@ -1,5 +1,3 @@
-![](http://i.imgur.com/y8g506n.png?1)
-
 # Real-Time-Google-Earth-Modis-Mapping
 
 Python Scripts to Crawl and Parse Realtime MODIS FIRMS Spectroradimeter Data from NASA.gov and Plot it on Google Earth
@@ -9,44 +7,36 @@ their website: https://earthdata.nasa.gov
 
 An extention to :
 http://blog.christianperone.com/2009/02/python-acessing-near-real-time-modis-images-and-fire-data-from-nasas-aqua-and-terra-satellites/
+=======
 
-<<<<<<< HEAD
 ## Features
+<ol>
 The scripts perform these basic functions:
--1. Crawling latest satellite images and their metadata from NASA
--2. Crawling FIRMS (Fire Information For Resource Management System) Shapefiles of active fire hotspots
--3. Parsing these shapefiles and extracting essential parameters
--4. Plotting the fire hotspots on the map in the basis of fire confidence intervals
-
+<li> Crawling latest satellite images and their metadata from NASA
+<li> Crawling FIRMS (Fire Information For Resource Management System) Shapefiles of active fire hotspots
+<li> Parsing these shapefiles and extracting essential parameters
+<li>  Plotting the fire hotspots on the map in the basis of fire confidence intervals
+</ol>
 Using this basic framework, the app runs in three modes, each
 performing different functions and having various features. The
 internal working of the application is represented by the flowchart:
 
-![](gujratfires.png)
+![](pipeline.png)
 
-For further details, see the attached FinalReport.pdf
+For further details, see the attached ![Report](FinalReport.pdf)
 =======
-For further details, see the attached FinalReport.pdf
 
-![](http://i.imgur.com/2tAksHG.gif)
+##Results
 
-## Features
-The scripts perform these basic functions:
-1. Crawling latest satellite images and their metadata from NASA
-2. Crawling FIRMS (Fire Information For Resource Management System) Shapefiles of active fire hotspots
-3. Parsing these shapefiles and extracting essential parameters
-4. Plotting the fire hotspots on the map in the basis of fire confidence intervals
->>>>>>> a3486a01843e4445f2008de353e4d0d0e1312d01
+![](gujratfires.png)
+![](india.png)
+=======
 
 ## Development
 
 This repository is no longer maintained. Contributions are welcome!
-<<<<<<< HEAD
+
 =======
-
-## License
-
->>>>>>> a3486a01843e4445f2008de353e4d0d0e1312d01
 
 ## License
 MIT © [Samiran Roy](https://www.cse.iitb.ac.in/~samiranroy/)
