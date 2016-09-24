@@ -1,13 +1,11 @@
 import pyowm
 from pygeocoder import Geocoder
-from osgeo import ogr, osr, gdal
 import subprocess
 import os
 
 print "Loading modules... ",
 import simplekml
 
-import shapefile
 from mpl_toolkits.basemap import Basemap
 
 import matplotlib.pyplot as plt
@@ -62,10 +60,6 @@ def run_main():
    
 
    tempdir = tempfile.mkdtemp() 
-
-   
-
-
    print "Downloading shape files from MODIS rapid fire... ",
    download(URL_FIRE_SHAPES, "shapes.zip")
    zipf = zipfile.ZipFile('shapes.zip') 
@@ -109,24 +103,14 @@ def run_main():
 
    print "Rendering... ",
    
-   m = Basemap(projection='cyl')
-   
-   
-   
+   m = Basemap(projection='cyl')   
    m.bluemarble()
-   
-   
    m.scatter(xlist, ylist, 20, c=confidence, cmap=p.cm.YlOrRd, marker='o', edgecolors='none', zorder=10)
    
    
    p.title("The recent fire hotspots for last %s \n Pixel size: %s | Current Date: %s" % (FIRE_LASTS, RAPIDFIRE_RES,time.strftime("%d/%m/%Y")))
    p.show()
-   
-   
-   
    print "done !"
-
-   
    os.remove("shapes.zip")
    
    
