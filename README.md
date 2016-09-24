@@ -5,13 +5,12 @@ The app makes use of MODIS (The Moderate Resolution Imaging Spectroradiometer) a
 orbit the Earth sending back high resolution images and spectroradiometer readings, which are made publicly available in
 their website: https://earthdata.nasa.gov
 
-An extention to :
-http://blog.christianperone.com/2009/02/python-acessing-near-real-time-modis-images-and-fire-data-from-nasas-aqua-and-terra-satellites/
+An extention to: https://blog.christianperone.com/2009/02/python-acessing-near-real-time-modis-images-and-fire-data-from-nasas-aqua-and-terra-satellites/
 =======
 
 ## Features
-<ol>
 The scripts perform these basic functions:
+<ol>
 <li> Crawling latest satellite images and their metadata from NASA
 <li> Crawling FIRMS (Fire Information For Resource Management System) Shapefiles of active fire hotspots
 <li> Parsing these shapefiles and extracting essential parameters
@@ -23,7 +22,7 @@ internal working of the application is represented by the flowchart:
 
 ![](pipeline.png)
 
-For further details, see the attached ![Report](FinalReport.pdf)
+For further details, see the attached ![](FinalReport.pdf)
 =======
 
 ##Results
