@@ -1,6 +1,6 @@
 # Real-Time-Google-Earth-Modis-Mapping
 
-Python Scripts to Crawl and Parse Realtime MODIS FIRMS Spectroradimeter Data from NASA.gov and Plot it on Google Earth
+Python Scripts to Crawl and Parse Realtime MODIS FIRMS Spectroradimeter Data from NASA.gov and Plot it on Google Earth.
 The app makes use of MODIS (The Moderate Resolution Imaging Spectroradiometer) aboard NASA’s Aqua and Terra satellites, which
 orbit the Earth sending back high resolution images and spectroradiometer readings, which are made publicly available in
 their [website](https://earthdata.nasa.gov) 
