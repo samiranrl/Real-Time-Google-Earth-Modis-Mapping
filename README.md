@@ -3,10 +3,9 @@
 Python Scripts to Crawl and Parse Realtime MODIS FIRMS Spectroradimeter Data from NASA.gov and Plot it on Google Earth
 The app makes use of MODIS (The Moderate Resolution Imaging Spectroradiometer) aboard NASA’s Aqua and Terra satellites, which
 orbit the Earth sending back high resolution images and spectroradiometer readings, which are made publicly available in
-their website: https://earthdata.nasa.gov
+their [website](https://earthdata.nasa.gov) 
 
 An extention to [this.](https://blog.christianperone.com/2009/02/python-acessing-near-real-time-modis-images-and-fire-data-from-nasas-aqua-and-terra-satellites/)
-=======
 
 ## Features
 The scripts perform these basic functions:
@@ -21,21 +20,20 @@ performing different functions and having various features. The
 internal working of the application is represented by the flowchart:
 
 ![](pipeline.png)
-
 For further details, see the attached [Report](FinalReport.pdf)
-=======
+
 
 ##Results
 
 ![](gujratfires.png)
 ![](india.png)
-=======
+
 
 ## Development
 
 This repository is no longer maintained. Contributions are welcome!
 
-=======
+
 
 ## License
 MIT © [Samiran Roy](https://www.cse.iitb.ac.in/~samiranroy/)
